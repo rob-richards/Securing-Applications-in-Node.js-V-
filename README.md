@@ -6,13 +6,12 @@ Everyone agrees that web application security is very important but there are ve
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Explore how machine learning is changing the world we live in. 
-<LI>Configure UIs with camera settings and use them in your app. 
-<LI>Implement text recognition and deploy it with Firebase on the cloud. 
-<LI>Perform face detection by adding it to your app and trying it out! 
-<LI>Scan through barcodes by adding the barcode scanning feature to your app. 
-<LI>Identify images by image labeling and deploy them with Firebase on the cloud. 
-<LI>Add features such as landmark recognition to your apps to identify a specific landmark. </LI></UL></DIV>
+<LI>Discover common attacks on web applications such as XSS and CSRF and ways to mitigate them.
+<LI>Rate-limit your APIs to prevent abuse.
+<LI>Build a user registration, login, and password reset flow.
+<LI>Add two-factor authentication to let security conscious users further protect themselves.
+<LI>How to do passwordless authentication via magic links in emails.
+<LI>How OAuth and OpenID allow you to authenticate users via third-party services.</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
